@@ -1,0 +1,11 @@
+{
+    "Framework": "jasmine",
+    "References": [
+        { "Path": "app.js" }
+    ],
+   "TestHarnessLocationMode": "SettingsFileAdjacent",
+
+     "Tests": [
+         { "Path": "test.js" }
+     ]
+}
